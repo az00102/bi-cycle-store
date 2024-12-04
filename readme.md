@@ -54,7 +54,7 @@ cd bi-cycle-store
 
 ### **Install the Required Packages**
 
-- **Configure Environment Variables**
+- **Configure Environment Variables**:
 Create a .env file in the root directory.
 Add the following variables:
 MONGO_URI=<your_mongodb_connection_string>
